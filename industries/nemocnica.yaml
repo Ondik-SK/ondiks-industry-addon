@@ -1,0 +1,16 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 0
+id: 0
+layout:
+- - - -1
+name: Nemocnica
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 5
+prospectChance: 100
+tiles: []
+type: primary
